@@ -1,4 +1,4 @@
-# wck-boost-booster-bot
+# wck-discord-boost-booster-bot
 Discord Boost Booster 2025 | Premium+ | Node.js
 
 # FEATURES
