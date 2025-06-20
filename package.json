@@ -4,7 +4,7 @@
   "description": "WCK-Member-Boost-Bot",
   "main": "app.js",
   "author": {
-    "name": ""
+    "name": "wck"
   },
   "dependencies": {
     "axios": "^1.3.5",
